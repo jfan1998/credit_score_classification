@@ -1,5 +1,5 @@
-# credit_score_classification
+# Credit Score Classification in Bank Loans
 
-APAN 5310 final project
+Fall 2022 APAN 5310 final project
 
 Group 3: Jiayi Fan, Jane Lee, Han Wang, Dinghao Xu, Jinyi Zhang, Yue Zhang
